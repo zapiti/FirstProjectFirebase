@@ -1,0 +1,6 @@
+framework module Pods_FirstProjectFirebaseUITests {
+  umbrella header "Pods-FirstProjectFirebaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
